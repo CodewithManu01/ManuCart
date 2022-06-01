@@ -1,0 +1,127 @@
+.custom-bg{
+    background:#D50000!important;
+}
+.admin .card {
+    border:1px solid #D50000;
+
+}
+.admin .card:hover {
+    background:#e2e2e2;
+    cursor:pointer;
+}
+.list-group-item.active{
+    background:#D50000!important; 
+    border-color:#D50000!important; 
+}
+.discount-label{
+    font-size: 10px!important;
+    font-style: italic!important;
+    /*text-decoration: line-through!important;*/
+}
+.product-card:hover{
+    background:#e2e2e2;
+    cursor:pointer;
+}
+
+/* toast */
+#toast {
+    min-width: 300px;
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    margin-left:  -120px;
+    background: #333;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    font-size: 18px;
+    visibility: hidden;
+    box-shadow: 0px 0px 100px #000;
+}
+
+#toast.display {
+    visibility: visible;
+    animation: fadeIn 0.5s,fadOut 0.5s 2.5s;
+}
+
+@keyframes fadeIn {
+    from {
+        bottom: 0;
+        opacity: 0;
+
+    }
+    to {
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+@keyframes fadeOut {
+    from {
+        bottom: 30px;
+        opacity: 1;
+    }
+    to {
+        bottom: 0;
+        opacity: 0;
+
+    }
+
+}
+/*---footer--*/
+.footer{
+    background:  #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+}
+.footer p{ 
+    color: #8a8a8a;
+}
+.footer h3{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4 {
+    min-width: 200px;
+    margin-bottom: 20px;
+    
+}
+.footer-col-1{
+    flex-basis: 30%
+        }
+ .footer-col-2 {
+    flex: 1;
+    text-align: center;
+    }
+ .footer-col-2 img{
+        width:180px;
+        margin-bottom: 20px;
+    }
+    .footer-col-3,.footer-col-4{
+     flex-basis: 12%;
+     text-align: center;
+    }
+    ul{
+        list-style-type: none;
+    }
+    .app-logo{
+        margin-top: 20px;
+    }
+    .app-logo img{
+        width: 140px;
+        
+    }
+    .footer hr{
+        border: none;
+        background: #b5b5b5;
+        height: 1px;
+        margin: 20px 0;
+    }
+    .copyright {
+        text-align: center;
+         }
+         
+        
+         
+  
