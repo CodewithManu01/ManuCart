@@ -4,8 +4,8 @@ This is a Ecommerce Project (Online Shopping ), Completely done by using HTML , 
 Home Page
 ![Home](https://user-images.githubusercontent.com/104019020/171614217-e0834b18-f9d9-4b58-85c8-80968ffa144d.png)
 
-
-
+Register Page
+![Register](https://user-images.githubusercontent.com/104019020/171615394-57b48d64-cfcc-485a-86e4-27d7450f065a.png)
 
 Checkout Page
 ![Checkout page](https://user-images.githubusercontent.com/104019020/171614887-a7add8f1-1781-4866-a501-1af09c513f27.png)
