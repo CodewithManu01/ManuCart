@@ -13,4 +13,5 @@ Admin Panel
 Footer
 ![Footer](https://user-images.githubusercontent.com/104019020/171616253-33379d65-6e6b-4cea-8ba6-22b107c5caa2.png)
 
-
+Register
+![Register](https://user-images.githubusercontent.com/104019020/171616862-a11bc177-4874-44dc-981e-74f2abd6658e.png)
